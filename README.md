@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnKivalaMutunga
-- 👀 I’m interested in Statistics,Data analysis and basic Computing
-- 🌱 I’m currently learning mathematical science 
+- 👀 I’m interested in Statistics,machine learning and graph theory
+- 🌱 I’m currently pursuing master's in mathematical science at AIMS-SA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me johnm@aims.ac.za
 
